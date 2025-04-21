@@ -43,7 +43,7 @@ def main():
                         print(buffer)
                         return buffer
 
-                time.sleep(0.2)
+                time.sleep(10)
 
             print("⚠️ Timeout: No MRZ data received.")
             return None
