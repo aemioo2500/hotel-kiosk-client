@@ -90,6 +90,8 @@ hotel-kiosk/
 
 ---
 
+---
+
 ## Use Case
 
 This module is part of a **Hotel Self Check-in Kiosk** system to verify identity by reading name data directly from a Thai National ID card or passport, replacing mnual entry.
